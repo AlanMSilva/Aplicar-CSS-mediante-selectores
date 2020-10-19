@@ -1,0 +1,32 @@
+
+
+#azul {
+  color: blue;
+  border: 4px solid orange;
+}
+  p[class=prueba_grande]{
+      color: lightblue;
+      font-size: 200%
+      
+  }
+  p[class=prueba]{
+    color: aquamarine;
+}
+  p[class=rojo_naranja]{
+    color: orangered;
+}
+article{
+    float: left;
+    background-color: darkcyan;
+}
+
+#grisaceo{
+    font-family: Arial;
+}
+
+[lang=es-MX]{
+    color: blue;
+}
+[lang=es-ES]{
+    color: blueviolet;
+}
